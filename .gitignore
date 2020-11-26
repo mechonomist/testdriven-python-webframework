@@ -1,2 +1,5 @@
 notes.txt
 rough.py
+venv
+__pycache__
+wsgi_demo.py
